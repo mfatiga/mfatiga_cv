@@ -132,7 +132,7 @@
  - writing different kinds of PL/SQL scripts for Oracle databases
 
 
-## [September 2011 - July 2013] Software Engineer - WORX d.o.o., Zagreb, Croatia
+## [September 2011 - July 2013] Software Engineer - WORX d.o.o., Varazdin, Croatia
  - development and maintenance of a PLM application written in Java (swing, ejb, hibernate, JBoss...), including deployment and configuration of this application on remote networks used by customers (mix of Linux and Windows machines)
  - solution design and development of lots of new functionality in that PLM system (for example, workflow processing engine running using manually drawn process flow diagrams, lots of work with tree structures including tree comparisson...)
  - 1 month of work experience in Canada (ATS - Automation Tooling Systems, Cambridge, Ontario) - working with them on PLMWorx to design and properly implement some of their business requirements
@@ -163,5 +163,5 @@ Varazdin, Croatia
 
 
 # Languages
- - proficient user of English
+ - English - proficient user
  - Croatian - mother tongue
