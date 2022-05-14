@@ -1,5 +1,6 @@
 # Curriculum Vitae
- - Mario Fatiga - Croatia
+ - **Mario Fatiga**
+ - from Varazdin, Croatia
  - born on January 30, 1988
 
 
@@ -16,13 +17,13 @@
 # Introduction
  - software system architect, language-agnostic developer, team lead
  - love to find solutions for all kinds of problems in anything tech related
- - started coding in 1996 with QBasic and Basic on ZX Spectrum
+ - started coding in 1996 with QBasic on PC and Basic on ZX Spectrum
  - very good knowledge of a wide array of programming languages
  - high interest in anything software and hardware related
  - high interest in all facets of technology and science
  - very good knowledge and understanding of electronics and embedded communication protocols
  - Linux user - using NeoVIM for most development, or Android Studio with VIM keybindings for Android
- - hobbies include: music synthesizers, SIM racing, FPV drone flying, Smart Home systems, photography, etc.
+ - hobbies include: synthesizers, SIM racing, FPV drone flying, Smart Home systems, photography, etc.
 
 
 # Work experience
@@ -46,6 +47,7 @@
  - Python Linux systemd services controlling different kinds of external/internal hardware/software
  - used mostly for controlling externally connected electronic lock controllers
  - services communication and shared storage implemented using Redis
+ - provides rest-based API and websockets to a locally run web app server
  - consisted of over 20 internally developed libraries, including:
    - Python OpenAPI client generator - generate a python client module based on OpenAPI.json rest service description
    - PyRedisMQ - generic python redis-list based message queues with support for RPC (unary and generator-based streams)
