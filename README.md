@@ -3,6 +3,13 @@
  - born on January 30, 1988
 
 
+# Links
+[GitHub](https://github.com/mfatiga/)
+[LinkedIn](https://www.linkedin.com/in/mario-fatiga-9198b435/)
+[exercism](https://exercism.org/profiles/mfatiga)
+[500px](https://500px.com/p/mfatiga)
+
+
 # Introduction
  - software system architect, language-agnostic developer, team lead
  - love to find solutions for all kinds of problems in anything tech related
@@ -12,7 +19,7 @@
  - high interest in all facets of technology and science
  - very good knowledge and understanding of electronics and embedded communication protocols
  - Linux user - using NeoVIM for most development, or Android Studio with VIM keybindings for Android
- - hobbies include: music synthesizers, SIM racing, FPV drone flying, Smart Home systems, etc.
+ - hobbies include: music synthesizers, SIM racing, FPV drone flying, Smart Home systems, photography, etc.
 
 
 # Work experience
