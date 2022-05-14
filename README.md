@@ -5,8 +5,11 @@
 
 # Links
 [GitHub](https://github.com/mfatiga/)
+
 [LinkedIn](https://www.linkedin.com/in/mario-fatiga-9198b435/)
+
 [exercism](https://exercism.org/profiles/mfatiga)
+
 [500px](https://500px.com/p/mfatiga)
 
 
