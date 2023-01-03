@@ -1,20 +1,16 @@
-# Curriculum Vitae
+# Introduction
  - **Mario Fatiga**
  - from Varazdin, Croatia
  - born on January 30, 1988
 
-
-# Links
-[GitHub](https://github.com/mfatiga/)
-
-[LinkedIn](https://www.linkedin.com/in/mario-fatiga-9198b435/)
-
-[exercism](https://exercism.org/profiles/mfatiga)
-
-[500px](https://500px.com/p/mfatiga)
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/mfatiga/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mario-fatiga-9198b435/)
+[![CodeWars](https://img.shields.io/badge/Codewars-B1361E.svg?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/mfatiga)
+[![Exercism](https://img.shields.io/badge/Exercism-009CAB.svg?style=for-the-badge&logo=Exercism&logoColor=white)](https://exercism.org/profiles/mfatiga)
+[![500px](https://img.shields.io/badge/500px-0099E5.svg?style=for-the-badge&logo=500px&logoColor=white)](https://500px.com/p/mfatiga)
 
 
-# Introduction
+## TLDR
  - software system architect, language-agnostic developer, team lead
  - love to find solutions for all kinds of problems in anything tech related
  - started coding in 1996 with QBasic on PC and Basic on ZX Spectrum
