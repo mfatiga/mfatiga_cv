@@ -1,20 +1,16 @@
-# Životopis
+# Uvod
  - **Mario Fatiga**
- - Jurketinec, 42243 Maruševec, Hrvatska
+ - Varaždin, Hrvatska
  - rođen 30.01.1988.
 
-
-# Linkovi
-[GitHub](https://github.com/mfatiga/)
-
-[LinkedIn](https://www.linkedin.com/in/mario-fatiga-9198b435/)
-
-[exercism](https://exercism.org/profiles/mfatiga)
-
-[500px](https://500px.com/p/mfatiga)
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/mfatiga/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mario-fatiga-9198b435/)
+[![CodeWars](https://img.shields.io/badge/Codewars-B1361E.svg?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/mfatiga)
+[![Exercism](https://img.shields.io/badge/Exercism-009CAB.svg?style=for-the-badge&logo=Exercism&logoColor=white)](https://exercism.org/profiles/mfatiga)
+[![500px](https://img.shields.io/badge/500px-0099E5.svg?style=for-the-badge&logo=500px&logoColor=white)](https://500px.com/p/mfatiga)
 
 
-# Uvod
+## U kratko
  - arhitekt softverskih sustava, programer koji ne ovisi o programskom jeziku, voditelj tima
  - volim tražiti rješenja za sve vrste problema u bilo čemu što je povezano s tehnologijom
  - počeo s programiranjem 1996. s QBasicom na PC-u i Basicom na ZX Spectrumu
