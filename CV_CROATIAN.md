@@ -28,6 +28,13 @@
  - programer i dizajner rješenja na brojnim softverskim bibliotekama i aplikacijama
  - arhitekt sustava na više projekata uključujući backend, firmware i arhitekturu mobilnih aplikacija
 
+### Backend za nadzor, kontrolu, upravljanje i razmjenu poruka s IoT uređajima
+  - dizajner programskog rješenja, glavni programer
+  - Elixir/Erlang rješenje s dva node-a za rukovanje porukama i distribuciju te obradu eventova
+  - binarni mgspack websocketi za komunikaciju s uređajima
+  - InfluxDB za pohranu telemetrije
+  - komunikacija s vanjskim ArangoDB wrapper backendom koristeći GraphQL
+
 ### Sustav za upravljanje i kontrolu entiteta iz resursa, bazirano na ZeroMQ:
  - dizajner softversog rješenja, glavni programer (Python, ZeroMQ, ...)
  - Python Linux sistemski servisi
