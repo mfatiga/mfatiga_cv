@@ -29,6 +29,13 @@
  - developer and solution designer on numerous software libraries, frameworks, and applications
  - system architect on multiple projects including backend, firmware, and mobile app architecture
 
+### IoT device management, control, and messaging proxy backend
+ - software solution designer, lead developer
+ - Elixir/Erlang dual node solution for message handling and event distribution and processing
+ - binary mgspack websockets for device communication
+ - InfluxDB for telemetry storage
+ - communication with external ArangoDB wrapper backend using GraphQL
+
 ### ZeroMQ based Entity-Resource management and control system:
  - software solution designer, lead developer (Python, ZeroMQ, ...)
  - Python Linux services
