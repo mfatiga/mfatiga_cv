@@ -18,18 +18,25 @@
  - high interest in anything software and hardware related
  - high interest in all facets of technology and science
  - very good knowledge and understanding of electronics and embedded communication protocols
- - Linux user - using NeoVIM for most development, or Android Studio with VIM keybindings for Android
- - hobbies include: synthesizers, SIM racing, FPV drone flying, Smart Home systems, photography, etc.
+ - Linux user - using Emacs/NeoVIM for development, or other editors with VIM keybindings
+ - hobbies include: synthesizers, SIM racing, FPV drone flying, Smart Home systems, photography, analog/digital radio technologies, etc.
 
 
 # Work experience
 
 ## [March 2016 - now] Software Engineer/Architect - SIL d.o.o, Varazdin, Croatia
- - Linux based IOT system solution designer, largely developed in Python
+ - Linux based IOT system solution designer, developed in Elixir and parts in Python
  - developer and solution designer on numerous software libraries, frameworks, and applications
  - system architect on multiple projects including backend, firmware, and mobile app architecture
 
-### IoT device management, control, and messaging proxy backend
+### Linux device remote maintenance service
+ - software solution designer, lead developer
+ - Elixir/Erlang
+ - runs scripts locally or on remote device using SSH
+ - script result output parsed using LUA
+ - using Elixir Broadway for task ingestion and as a processing pipeline
+
+### IoT device management, control, and messaging backend
  - software solution designer, lead developer
  - Elixir/Erlang dual node solution for message handling and event distribution and processing
  - binary mgspack websockets for device communication
@@ -38,12 +45,18 @@
 
 ### ZeroMQ based Entity-Resource management and control system:
  - software solution designer, lead developer (Python, ZeroMQ, ...)
- - Python Linux services
+ - Python in Docker
  - generic solution for controlling and consuming any kind of software or hardware resource using a simple and powerful API
  - integrated generic RPC solution for UNARY and STREAM calls with easily developed resource wrappers
  - easily extendable support for multiple protocols (ZeroMQ, Websockets, ...)
  - distributed resource management and control
  - auto-generated API and documentation
+
+### Visual programming language server for simple block-based on-device business logic design
+ - software solution designer, lead developer (Python, ...)
+ - Python in Docker
+ - generic visual language for easy integration between backend messaging and hardware control
+ - auto-generated language block metadata for generic flow editor UI
 
 ### Smart Linux locker system:
  - software solution designer, lead developer (Python, Redis, ...)
